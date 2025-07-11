@@ -1,6 +1,6 @@
 {
-  "name": "xliffmerge",
-  "version": "1.0.0",
+  "name": "xliffmerge-standalone",
+  "version": "1.0.1",
   "description": "xliffmerge - merge translation files for Angular i18n",
   "main": "dist/main.js",
   "bin": {
@@ -25,7 +25,6 @@
     "translation",
     "merge"
   ],
-  "author": "Stanislav Romanov (stanislavromanov.com)",
   "license": "MIT",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.10",
